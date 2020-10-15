@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 30px;
+  overflow-x: hidden;
+  background-color: rgb(184, 194, 197);
+}
+
+.sec1 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 200px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  /* background-color: aqua; */
+}
+
+.sec11-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.sec12-h1 {
+  font-size: 60px;
+  margin-bottom: 0px;
+  font-weight: 500;
+}
+
+.sec12-h3 {
+  margin-top: 0px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.sec2 {
+  margin: 10px auto;
+  padding: 5px 20px;
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.sec21-div {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  flex-wrap: wrap;
+  margin-right: 8px;
+}
+
+.sec21-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+}
+
+.sec21-h4 {
+  margin-bottom: 0px;
+}
+
+.sec21-p {
+  margin-top: 0px;
+}
+
+.sec22-h4 {
+  margin-bottom: 0px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.sec22-p {
+  margin-top: 0px;
+}
+
+.sec22-h2 {
+  margin-top: 35px;
+}
+
+.sec21-div1-h3 {
+  margin-bottom: 0px;
+  font-weight: 550;
+}
+
+.sec21-div1-p {
+  margin-top: 0px;
+}
+
+.all {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid grey;
+}
+
+.sec21-div1 {
+  margin-top: 100px;
+}
